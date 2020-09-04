@@ -3,6 +3,31 @@
 ## Journal Publications
 
 ## Conference Publications
+[C50] Müller, A., Evidence of ENSO and the Indian Ocean Dipole derived from coral-based sea surface temperature reconstruction in the eastern Indian Ocean. 8th International Conference for Paleoceanography, Biarritz, September 2004.
+
+[C49] Müller, A., Gagan M.K. & Lough, J.M., Effect of early marine diagenesis on coral reconstruction of surface-ocean 13C/12C and carbonate saturation state. 10th International Coral Reef Symposium, July 2004.
+
+[C48] Müller, A. and Hope, P., Evidence from paleoclimate records and modeling results of an El Niño-like climate mean state during the Last Glacial Maximum. Australian Meteorological and Oceanographic Society, Annual Conference, Brisbane, July 2004.
+
+[C47] Müller, A., Evidence of ENSO and the Indian Ocean Dipole derived from coral-based reconstructions of SSTs in the Indonesian-Throughflow-sensitive Eastern Indian Ocean. Keynote Presentation, 1st Asia-Oceania Geoscience Society Conference, Singapore, July 2004.
+
+[C46] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L., Gustiantini, L., Deep-water ostracodes (Mirocrustacea) in surface sediments from the Indonesian-Throughflow-sensitive continental slopes of the Banda and Timor Seas. 1st Asia-Oceania Geoscience Society Conference, Singapore, July 2004.
+
+[C45] Gustiantini, L., Dewi, K.T., Müller, A. & Praptisih, Distribution of benthic foraminifera in Indonesian estuarine environments: insights into past and present environmental change in Indonesian Estuaries. 1st Asia-Oceania Geoscience Society Conference, Singapore, July 2004.
+
+[C44] Auliaherliaty, L., Dewi, K.T., Müller, A., Late Quaternary development of the Segara Anakan Lagoon (southern Java, Indonesia): Does it offer insights into natural versus anthropogenic causes of recent environmental changes in lagoonal estuaries in Indonesia ? 1st Asia-Oceania Geoscience Society Conference, Singapore, July 2004.
+
+[C43] Gustiantini, L., Dewi, K.T., Müller, A. & Praptisih, Distribution of benthic foraminifera in Indonesian estuarine environments: insights into past and present environmental change. Estuarine and Coastal Sciences Association (ECSA) and Estuarine Research Federation (ERF), International Conference, Ballina, Australia, June 2004.
+
+[C42] Müller, A., Paleoenvironments, coastal development and sea level change in the lagoonal estuaries of the Southern Baltic Sea. Estuarine and Coastal Sciences Association (ECSA) and Estuarine Research Federation (ERF), International Conference, Ballina, Australia, June 2004.
+
+[C41] Müller, A., Gagan M.K. & Lough, J.M., Validity of coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Goldschmidt Conference, Copenhagen, June 2004.
+
+[C40] Müller, A., Scharf, B., Wölfl, S., Urrutia, R., Treutler H.-C., Pirrung, M., Grosjean, M., Araneda, A., Cruces, F., Torres, L., Parra, O. and Geller, W.H., Recent paleolimnology and paleoecology of a high-altitude lake in the Southern Central Andes (Lake Laja, Chile): Natural development versus anthropogenic impact, and implications for paleoclimate studies. Keynote presentation, American Geophysical Union, Montreal, May 2004.
+
+[C39] Müller, A., An ENSO-like climate mean state in the Indonesian-Throughflow-sensitive eastern Indian Ocean. Keynote presentation, Fifth International Conference on Asian Marine Geology, Bangkok, January 2004.
+
+[C38] Gustiantini, L., Dewi, K.T., Müller, A. & Praptisih, Benthic foraminifera as indicators of estuarine environments and (paleo)environmental change in Indonesia. Fifth International Conference on Asian Marine Geology, Bangkok, January 2004.
 
 [C37] Auliaherliaty, L., Dewi, K.T., Müller, A. Late Quaternary development and paleobathymetry of the Segara Anakan Lagoon, Southern Java, Indonesia. Fifth International Conference on Asian Marine Geology, Bangkok, January 2004.
 
