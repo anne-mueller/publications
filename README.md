@@ -3,6 +3,31 @@
 ## Journal Publications
 
 ## Conference Publications
+
+[C62] Auliaherliaty, L., Müller, A., Dewi, K.T., Pupung R., Tunjungpuri and Gustiantini, L., A Late Quaternary study of the Segara Anakan Lagoon, Southern Java, and implications of recent environmental changes, Southern Java. 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
+
+[C61] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L. and Gustiantini, L., Shallow-water ostracods reflect paleo-environmental conditions in the Makassar Basin, Indonesia, during the Late Quaternary, 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
+
+[C60] Müller, A. and Hope, P., Evidence from paleoclimate records and modeling results for an El Niño-like climate mean state during the Last Glacial Maximum. 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
+
+[C59] Müller, A., Ocean and Climate Studies. Public lecture on the Future of Education in Earth Sciences. 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
+
+[C58] Müller, A., McGregor, H., Gagan M.K. & Lough, J.M., Do massive corals reflect global change? Coral reconstructions of changes in temperature and carbonate saturation state of the surface ocean. Australian Meteorological and Oceanographic Annual Meeting/International Congress for Physics, Canberra, February 2005.
+
+[C57] Gustiantini, L., Dewi, K.T., Müller, A. & Praptisih, P., Insights into past and present environmental change in Indonesian Estuarine Environments. International Conference on DELTAS: 2nd Annual Meeting of IGCP-475 DeltaMAP and APN Project on the Mega-Deltas of Asia, 1st meeting of CCOP DelSEA project, Ho Chi Minh City, Vietnam, January 2005.
+
+[C56] Auliaherliaty, L., Dewi, K.T. and Müller, A., Recent and past changes in sediment supply to the Segara Anakan Lagoon (Southern Java, Indonesia). International Conference on DELTAS: 2nd Annual Meeting of IGCP-475 DeltaMAP and APN Project on the Mega-Deltas of Asia, 1st meeting of CCOP DelSEA project, Ho Chi Minh City, Vietnam, January 2005.
+
+[C55] Müller, A., Auliaherliaty, L., Dewi, K.T., Gustiantini, L. and Tunjungpuri, P.R., Recent changes and the Late Quaternary Development of the Segara Anakan Lagoon (Southern Java, Indonesia). International Conference on DELTAS: 2nd Annual Meeting of IGCP-475 DeltaMAP and APN Project on the Mega-Deltas of Asia, 1st meeting of CCOP DelSEA project, Ho Chi Minh City, Vietnam, January 2005.
+
+[C54] Dewi, K.T., Müller, A., Frenzel, P. and van Harten, D., Recent Ostracoda (Microcrustacea) from a Banda-to-Timor Sea Traverse: implications for paleobathymetric Studies. Proceedings of the 33th Annual Convention and Exhibition 2004, Indonesian Association of Geologist, Jakarta, December 2004.
+
+[C53] Müller, A., Scharf, B., Pirrung, M., Geller, W., von Tümpling, W., Paleoclimate signals in high-altitude Patagonian lake sediments (Lake Caviahue, Argentina). The 6th CVL workshop on 'Volcanic Lakes', Caviahue, Argentina, November 2004.
+
+[C52] Geller, W.H., Müller, A., Scharf, B., Wölfl, S., Urrutia, R., Gehre, M., Treutler H.-C., Pirrung, M., Grosjean, M., Araneda, A., Cruces, F., Torres, L. and Parra, O., High-altitude lakes resulting from volcanic processes in the Southern Central Andes (Lake Laja, Chile): Recent natural development versus anthropogenic impact. The 6th CVL workshop on 'Volcanic Lakes', Caviahue, Argentina, November 2004.
+
+[C51] Müller, A., An El-Niño-like climate mean state during the Last Glacial Maximum in the Eastern Indian Ocean. 8th International Conference for Paleoceanography, Biarritz, September 2004.
+
 [C50] Müller, A., Evidence of ENSO and the Indian Ocean Dipole derived from coral-based sea surface temperature reconstruction in the eastern Indian Ocean. 8th International Conference for Paleoceanography, Biarritz, September 2004.
 
 [C49] Müller, A., Gagan M.K. & Lough, J.M., Effect of early marine diagenesis on coral reconstruction of surface-ocean 13C/12C and carbonate saturation state. 10th International Coral Reef Symposium, July 2004.
