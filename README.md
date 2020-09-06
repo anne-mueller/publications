@@ -4,6 +4,26 @@
 
 ## Conference Publications
 
+[C72] Müller, A. & Hope, P., Equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum - evidence of an altered weathering regime in northern Australia. European Geophysical Union, Annual Meeting, Vienna, April 2007.
+
+[C71] Müller, A., McGregor, H., Gagan M.K. and Lough, J.M., Stable isotope signatures in carbonates as a tool for hydrocarbon exploration. American Association of Petroleum Geologists, International Meeting, Perth, November 2006.
+
+[C70] Müller, A. & Hope, P., An altered weathering regime and implications for the cross-equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum. Western Pacific Geophysics Meeting, Beijing, July 2006.
+
+[C69] Müller, A. & Hope, P., GCM and proxy evidence of an altered weathering regime in northern Australia during the Last Glacial Maximum - implications for the cross-equatorial moisture transport in the Asia-Australia region. 3rd Asia Oceania Geoscience Society Annual Conference, Singapore, July 2006.
+
+[C68] Dewi, K.T., Dwi Aryanto N. and Müller, A., Land-sea interactions in coastal waters of northeast Kalimantan, Indonesia - evidence from microfaunal communities. 3rd Asia Oceania Geoscience Society Annual Conference, Singapore, July 2006.
+
+[C67] Gustiantini, L., Dewi, K.T., Müller, A. & Praptisih, Sea level change during the early Holocene - evidence from benthic foraminiferal assemblages in shallow marine deposits in Indonesia. 3rd Asia Oceania Geoscience Society Annual Conference 2006, Singapore, July 2006.
+
+[C66] Müller, A., Gagan M.K. & Lough, J.M., Stable isotope signatures in reef carbonates. Australian Petroleum Production & Exploration Association Conference, Gold Coast, May 2006.
+
+[C65] Müller, A. & Hope, P., GCM and proxy evidence of an altered weathering regime in northern Australia during the Last Glacial Maximum. Australian Meterological and Oceanographic Annual Meeting, Annual Conference, Newcastle, February 2006.
+
+[C64] Dewi, K.T., Frenzel, P., Müller, A., Tropical recent ostracoda in the eastern Indonesian Seas: from Sahul to the Banda Sea. In: Kohring, R. & Sames, B. (eds): 15th International Symposium on Ostracoda, Freie Universität Berlin, September 12-15, 2005, Program and Abstracts. Berliner Paläobiologische Abhandlungen, 6: 26-27.
+
+[C63] Müller, A., Gagan M.K. & Lough, J.M., The effect of early marine diagenesis on stable isotope signatures in carbonates - Implications for the interpretation of stable isotope signatures in potential reservoir environments. 2005 American Association of Petroleum Geologists - International Conference and Exhibition, Paris, September, 2005.
+
 [C62] Auliaherliaty, L., Müller, A., Dewi, K.T., Pupung R., Tunjungpuri and Gustiantini, L., A Late Quaternary study of the Segara Anakan Lagoon, Southern Java, and implications of recent environmental changes, Southern Java. 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
 
 [C61] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L. and Gustiantini, L., Shallow-water ostracods reflect paleo-environmental conditions in the Makassar Basin, Indonesia, during the Late Quaternary, 2nd Asia-Oceania Geoscience Society Annual Conference, Singapore, June 2005.
