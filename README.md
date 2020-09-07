@@ -4,6 +4,28 @@
 
 ## Conference Publications
 
+[C83] Müller, A. and Hope, P., Northwestern Australia's terrestrial climate response to Last Glacial Maximum ocean conditions. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
+
+[C82] Löwenmark, L., Müller, A., Steinke, S., Wang, C.-H., Chen, M.-T., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., Glacio-eustatic influence on deep water circulation in the South China Sea over the past 500 kyrs - implications for global biogeochemical cycling. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
+
+[C81] Müller, A., Behera, S., Yamagata, T. and Weng, H., ENSO terminology in modern and paleo-studies of tropical climate variability and climate change. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
+
+[C80] Löwenmark, L., Müller, A., Steinke, S., Wang, C.-H., Chen, M.-T., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., New evidence of a glacioeustatic influence on deep water circulation, bottom water ventilation and primary productivity in the South China Sea. 5th Asia Oceania Geoscience Society Annual Conference, Busan, Korea, June 2008.
+
+[C79] Müller, A. and Hope, P., Evidence of El Niño-like cross-equatorial moisture transport in Australasia during the past 200,000 years. 5th Asia Oceania Geoscience Society Annual Conference, Busan, Korea, June 2008.
+
+[C78] Dewi, K.T., Kapid, R., Sihombing, D. and Müller, A., Microcrustaceans shell (ostracoda) as environmental indicators of the Berau and Mahakam Deltas, East Kalimantan, Indonesia. 5th Asia Oceania Geoscience Society Annual Conference, Busan, Korea, June 2008.
+
+[C77] Müller, A., Pirrung, M., Scharf, B. and von Tümpling, W., Natural environmental hazards reflected in high-altitude Patagonian lake sediments - implications for management strategies. 4th Asia Oceania Geoscience Society Annual Conference, Bangkok, July/August 2007.
+
+[C76] Dewi, K.T., Darlan, Y., Müller, A. and Kapid, R., The dynamics of the late Holocene coastline of Indramayu, Indonesia: micropaleontological and sedimentological evidence. 4th Asia Oceania Geoscience Society Annual Conference, Bangkok, July/August 2007.
+
+[C75] Gustiantini, L., Müller, A. and Usman, E., The influence of ocean currents on the distribution of sediments and foraminifera in Batam waters, Indonesia. 4th Asia Oceania Geoscience Society Annual Conference, Bangkok, July/August 2007.
+
+[C74] Müller, A. and Hope, P., Equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum - evidence from paleoceanographic and modeling results. American Geophysical Union, Joint Assembly, Acapulco, May 2007.
+
+[C73] Müller, A., Pirrung, M., Scharf, B. and von Tümpling, W., Natural environmental hazards reflected in high-altitude Patagonian lake sediments. American Geophysical Union, Joint Assembly, Acapulco, May 2007.
+
 [C72] Müller, A. & Hope, P., Equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum - evidence of an altered weathering regime in northern Australia. European Geophysical Union, Annual Meeting, Vienna, April 2007.
 
 [C71] Müller, A., McGregor, H., Gagan M.K. and Lough, J.M., Stable isotope signatures in carbonates as a tool for hydrocarbon exploration. American Association of Petroleum Geologists, International Meeting, Perth, November 2006.
