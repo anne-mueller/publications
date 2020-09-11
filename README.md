@@ -170,6 +170,32 @@
 
 [C1] Opdyke, B.N. & Müller A.: A paleocenographic comparison between isotopic results from the Scott Plateau and much of the rest of the Western Pacific Warm Pool Region. Third Australian Marine Conference, Adelaide, September/October 1997.
 
+## Reports
+
+[R12] Müller, A., 2008: The influence of the Indian Ocean Dipole and the El-Niño Southern Oscillation on long-term climate variability and climate change. Final report, Japanese Society for the Promotion of Science, 5 p.
+
+[R11] Müller, A., Establishing geochemical tracers for paleoceanographic reconstructions in the western Pacific, Marine National Facility of Australia, Cruise SST02/2006, Voyage Summary, 22 p.
+
+[R10] Müller, A., 2006: Establishing geochemical tracers for paleoceanographic reconstructions in the western Pacific, Marine National Facility of Australia, Cruise SST02/2006, Operational Report, 3 p.
+
+[R9] Müller, A., Tri Dewi, K. and Frenzel, P., 2005: Ostracods as indicators of environmental change in the Timor Trough, Indonesia, in German (Ostrakoden asl Indikatoren von Umweltveränderungen in der Timor See, Indonesien). Final Report, Internationales Burö des Bundesministeriums für Bildung und Forschung (Projekt IDN 01/010) - DLR-International Office of the German Federal Ministry of Education and Research.
+
+[R8] Müller, A., Tri Dewi, K. and Frenzel, P., 2003: Ostracods as indicators of environmental change in the Timor Trough, Indonesia, in German (Ostrakoden asl Indikatoren von Umweltveränderungen in der Timor See, Indonesien). Annual Report, Internationales Burö des Bundesministeriums für Bildung und Forschung (Projekt IDN 01/010) - DLR-International Office of the German Federal Ministry of Education and Research.
+
+[R7] Müller, A., Tri Dewi, K. and Frenzel, P., 2002: Ostracods as indicators of environmental change in the Timor Trough, Indonesia, in German (Ostrakoden asl Indikatoren von Umweltveränderungen in der Timor See, Indonesien). Annual Report, Internationales Burö des Bundesministeriums für Bildung und Forschung (Projekt IDN 01/010) - DLR-International Office of the German Federal Ministry of Education and Research.
+
+[R6] Müller, A., 2001: Paleoceanography of the Indonesian Seas. Deutscher Akademischer Austauschdienst - German Academic Exchange Service (DAAD), Program Report "Marine Research with Indonesia".
+
+[R5] Müller, A., 2001: Dynamics of the Leeuwin Current during the Late Quaternary. Final Report, Deutsche Forschungsgemeinschaft - German Research Council (DFG), Project Mu 1514/1-1.
+
+[R4] Müller, A., 2000: Dynamics of the Leeuwin Current during the Late Quaternary. Annual Report, Deutsche Forschungsgemeinschaft - German Research Council (DFG), Project Mu 1514/1-1.
+
+[R3] Müller, A., 1998: Paleoceanography of marine areas off Australia. Deutscher Akademischer Austauschdienst - German Academic Exchange Service (DAAD), Annual Report, HEP Program (Nachwuchswissenschaftler/Junior Scientist).
+
+[R2] Müller, A., 1997: Paleoceanography of marine areas off Australia. Deutscher Akademischer Austauschdienst - German Academic Exchange Service (DAAD), Annual Report, HEP Program (Nachwuchswissenschaftler/Junior Scientist).
+
+[R1] Müller, A., 1994: Sediment investigations in Lumparn Bight, Åland/Finland, in Swedish (Sedimentundersökningar i Lumparnbukten, Åland/Finland. Report to the provincial government of Åland and to Husö Biological Station, 24 p.
+
 ## Monographs
 
 ## Book Chapters
