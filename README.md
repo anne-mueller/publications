@@ -2,6 +2,18 @@
 
 ## Journal Publications
 
+[A6] Müller, A., 1998: Zur postglazialen Sedimentationsgeschichte des Grossen Jasmunder Boddens, südliche Ostsee (Postglacial sedimentation history of the Grosser Jasmunder Bodden lagoon, southern Baltic Sea, in German with English summary). Eiszeitalter und Gegenwart 48, 118-132.
+
+[A5] Müller, A. and Hoffmann, K., 1998: Spät- und postglaziale Sedimentationsdynamik und Korngrössenverteilung om Oder-Haff, südliche Ostsee (Late and Post-Glacial sedimentation dynamics and grain size distribution in the Oder Lagoon, southern Baltic Sea, in German with English summary). Leipziger Geowissenschaften 6, 199-209.
+
+[A4] Müller, A., 1997: Hydrodynamics and nutrient distribution in bottom sediments of the Archipelago Sea, southwestern Finland. Boreal Environment Research 2, 229-237.
+
+[A3] Müller, A., 1997: Zu Sedimentationsgeschichte und Palämilieu der Darss-Zingster Bodenkette, südliche Ostsee (Sedimentation history and paleoenvironments of the Darss-Zingster lagoons, southern Baltic Sea, in German with English summary). Zeitschrift für Geologische Wissenschaften, 25 (5/6), 465-480.
+
+[A2] Müller, A., 1997: Die Rekonstruktion von Sedimentationsgeschichte und Paläomilieu des Oderhaffs unter Anwendung geochemischer Methoden (Reconstruction of sedimentation history and paleoenvironments of the Oder lagoon using geochemical methods, in German with English summary). Zeitschrift der Deutschen Geologischen Gesellschaft 148:2, 271-278.
+
+[A1] Müller, A., 1996: Sedimentmiljön i Lumparnbukten, Åland (in Swedish with English summary: The sedimentary environment of Lumparn Bight, Åland). Terra 108:1, 20-29.
+
 ## Conference Publications
 
 [C83] Müller, A. and Hope, P., Northwestern Australia's terrestrial climate response to Last Glacial Maximum ocean conditions. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
@@ -198,4 +210,14 @@
 
 ## Monographs
 
+[M4] Müller, A., 2002: Deep-sea sediment core and coral reconstructions of the Late Quaternary paleoceanography of the eastern Indian Ocean. Ph.D. thesis, Australian National University, Canberra, Australia, 128 p.
+
+[M3] Müller, A., 1996: Sedimentation history and paleoenvironments of coastal lagoons and estuaries in the Southern Baltic Sea - reflection of climate change during the Holocene, in German (Zu Sedimentationsgeschichte und Paläomilieu ausgewählter lagunärer und ästuariner Küstengewässer im südlichen Ostseeraum als Ausdruck der Klimaentwicklung im Holozän), Dissertation, Ernst-Moritz-Arndt-Universität Greifswald, 161 p. + Appendix volume.
+
+[M2] Müller, A., 1995: Sedimentological investigations in Nordåsvannet, an anoxic fjord in western Norway. M.Sc. thesis, Åbo Akademi University, Turku, Finland, 150 p.
+
+[M1] Müller, A., 1992: Geochemistry and nutrient status of recent sediments in coastal areas of southwestern Finland, in German (Untersuchungen an rezenten marinen Sedimenten in einem ausgewählten Küstengebiet Südwestfinnlands - Betrachtungen zum Nährstoffstatus und zur Geochemie). M.Sc. thesis, Ernst-Moritz-Arndt-Universität Greifswald, 61 p.
+
 ## Book Chapters
+
+[B1] Müller, A., Pirrung, M., Scharf, B., von Tümpling, W. and Geller, W., 2006: Natural environmental hazards reflected in high-altitude Patagonian lake sediments (Lake Caviahue, Argentina). IAVCEI/GSL volcanology book series, GSL "Special Publications"
