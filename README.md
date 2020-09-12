@@ -1,6 +1,36 @@
-# Publications of Anne Müller
+# Publications of Professor Dr. Dr. Anne Müller
 
 ## Journal Publications
+
+[A21] Gustiantini, L., Dewi, K.T. and Müller, A., 2003: Distribution of foraminifera in surface sediments of Segara Anakan Lagoon, Central Java, and its relation to heavy metal pollution and environmental stress. Bulletin of Marine Geology 1 (1), 36-47.
+
+[A20] Müller, A., 2002: Geochemical expressions of Late- and Post-Glacial land-sea interactions in the southern Baltic Sea. Boreal Environment Research 7 (1), 13-25.
+
+[A19] Müller, A., 2002: Holocene sea-level change in the southwestern Baltic Sea. Terra Nostra 2002/6, 216-220.
+
+[A18] Müller, A., 2002: Pyritization of iron and trace metals in anoxic fjord sediments (Nordåsvannet fjord, western Norway). Applied Geochemistry 17 (7), 923-933.
+
+[A17] Müller, A., 2002: Organic carbon burial rates, and carbon and sulfur relationships in coastal sediments of the southern Baltic Sea. Applied Geochemistry 17 (4), 337-352.
+
+[A16] Müller, A., Gagan, M.K. and McCulloch, M.T., 2001: Early marine diagenesis in coral and geochemical consequences of paleoceanographic reconstructions. Geophysical Research Letters Vol. 28, No. 23, 4471-4474.
+
+[A15] Müller, A., 2001: Late- and postglacial sea-level change and paleoenvironments in the Oder Estuary, southern Baltic Sea. Quaternary Research 55, 86-96.
+
+[A14] Müller, A., 2001: Geochemical expressions of anoxic conditions in a land-locked fjord, western Norway. Applied Geochemistry 16, 363-374.
+
+[A13] Müller, A., 2000: Interpreting heavy metals in the sediments of the Baltic Sea. Leipziger Geowissenschaften 12, 43-48.
+
+[A12] Müller, A. and Opdyke, B.N., 2000: Glacial-interglacial changes in nutrient utilization and paleoproductivity in the Indonesian-Throughflow-sensitive Timor Trough, easternmost Indian Ocean, Paleoceanography 15, 85-94.
+
+[A11] Müller, A. and Matthesius, U., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. I. The application of sedimentary Corg/N and 13C/12C ratios as source indicators of organic matter. Paleogeography, Palaeoclimatology, Palaeecology 145, 1-16.
+
+[A10] Müller, A. and Voss, M., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. II. d13C and d15N ratios of organic matter - sources and sediments. Paleogeography, Palaeoclimatology, Palaeecology, 145, 17-32.
+
+[A9] Müller, A., 1999: Geochemische Characteristika des Greifswalder Boddens (südliche Ostsee) als Indikatoren für Sedimentationsgeschichte und Paläomilieu (Geochemical characteristica of the Greifswalder Bodden lagoon sediments - indicators of sedimentation history and paleoenvironments, in German with English summary). Senckenbergiana maritima 30, 1-15.
+
+[A8] Müller, A., 1999: Distrubution of heavy metals in recent sediments in the Archipelago Sea of soutwestern Finland. Boreal Environment Research 4, 319-330.
+
+[A7] Müller, A., 1998: Die Rekonstruktion der Palämilieus von Bodden und Haffen der südlichen Ostsee under Anwendung der Corg/S-Verhältnisse in den Sedimenten (Reconstruction of paleoenvironments of coastal lagoons in the southern Baltic Sea using sedimentary Corg/S ratios, in German with English summary), Geochemistry/Chemie der Erde 58, 291-311.
 
 [A6] Müller, A., 1998: Zur postglazialen Sedimentationsgeschichte des Grossen Jasmunder Boddens, südliche Ostsee (Postglacial sedimentation history of the Grosser Jasmunder Bodden lagoon, southern Baltic Sea, in German with English summary). Eiszeitalter und Gegenwart 48, 118-132.
 
