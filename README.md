@@ -12,13 +12,13 @@
 
 [A30] Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2007: Paleoenvironmental reconstructions from benthic assemblages of early Holocene, shallow marine deposits in Gombong, central Java. Bulletin of Marine Geology 22 (1), 18-27.
 
-[A29] Müller, A., McGregor, H., Gagan, M.K. and Lough, J.M., 2006: The effects of early marine aragonite, calcite and vadose-zone calcite diagenesis on coral reconstructions of changes in coral calcification and oceanic Suess effect. In: Proceedings 10th International Coral Reef Symposium, Y Suzuki et al (eds), Japanese Coral Reef Society, Tokyo, Japan, pp. 607-614.
+[[A29]](https://github.com/anne-mueller/publications/blob/master/PDF/A29.pdf) Müller, A., McGregor, H., Gagan, M.K. and Lough, J.M., 2006: The effects of early marine aragonite, calcite and vadose-zone calcite diagenesis on coral reconstructions of changes in coral calcification and oceanic Suess effect. In: Proceedings 10th International Coral Reef Symposium, Y Suzuki et al (eds), Japanese Coral Reef Society, Tokyo, Japan, pp. 607-614.
 
-[A28] Dewi, K.T., Müller, A., Frenzel, P. and van Harten, D., 2005: Recent Ostracoda (Microcrustacea) from a Banda-to-Timor Sea Traverse: implications for paleobathymetric Studies. Proceedings of the 33rd Annual Convention and Exhibition, Indonesian Association of Geologists, Jakarta.
+[[A28]](https://github.com/anne-mueller/publications/blob/master/PDF/A28.pdf) Dewi, K.T., Müller, A., Frenzel, P. and van Harten, D., 2005: Recent Ostracoda (Microcrustacea) from a Banda-to-Timor Sea Traverse: implications for paleobathymetric Studies. Proceedings of the 33rd Annual Convention and Exhibition, Indonesian Association of Geologists, Jakarta.
 
-[[A27]](https://doi.org/10.1029/2003GB002112) Müller, A., Gagan, M.K. and Lough, J.M., 2004: Effect of early marine diagensis on coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Global Biogeochemical Cycles 18 (1), 1033-1040.
+[[A27]](https://doi.org/10.1029/2003GB002112) Müller, A., Gagan, M.K. and Lough, J.M., 2004: Effect of early marine diagenesis on coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Global Biogeochemical Cycles 18 (1), 1033-1040.
 
-[A26] Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2004: The benthic foraminifera Ammonia beccarii as indicator of estuarine environments in Indonesia. Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 2, 495-505.
+[[A26]](https://github.com/anne-mueller/publications/blob/master/PDF/A26.pdf) Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2004: The benthic foraminifera Ammonia beccarii as indicator of estuarine environments in Indonesia. Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 2, 495-505.
 
 [A25] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L. and Gustiantini, L., 2004: Do Quaternary Ostracoda reflect transgression and regression events in the Timor Sea? Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 1, 317-326.
 
@@ -26,13 +26,13 @@
 
 [A23] Müller, A., Gagan, M.K. and Lough, J.M., 2003: Coral reconstructions of the 20th century changes in coral calcification and reef growth caused by increase in atmospheric CO2. Terra Nostra 2003/6, 303-306.
 
-[A22] Auliaherliaty, L., Dewi, K.T. and Müller, A., 2003: Sediment provenance derived from foraminiferal distribution in the Segaran Anakan Lagoon, Central Java. Bulletin of Marine Geology 1 (1), 1-11.
+[[A22]](https://github.com/anne-mueller/publications/blob/master/PDF/A22.pdf) Auliaherliaty, L., Dewi, K.T. and Müller, A., 2003: Sediment provenance derived from foraminiferal distribution in the Segaran Anakan Lagoon, Central Java. Bulletin of Marine Geology 1 (1), 1-11.
 
-[A21] Gustiantini, L., Dewi, K.T. and Müller, A., 2003: Distribution of foraminifera in surface sediments of Segara Anakan Lagoon, Central Java, and its relation to heavy metal pollution and environmental stress. Bulletin of Marine Geology 1 (1), 36-47.
+[[A21]](https://github.com/anne-mueller/publications/blob/master/PDF/A21.pdf) Gustiantini, L., Dewi, K.T. and Müller, A., 2003: Distribution of foraminifera in surface sediments of Segara Anakan Lagoon, Central Java, and its relation to heavy metal pollution and environmental stress. Bulletin of Marine Geology 1 (1), 36-47.
 
-[A20] Müller, A., 2002: Geochemical expressions of Late- and Post-Glacial land-sea interactions in the southern Baltic Sea. Boreal Environment Research 7 (1), 13-25.
+[[A20]](https://github.com/anne-mueller/publications/blob/master/PDF/A20.pdf) Müller, A., 2002: Geochemical expressions of Late- and Post-Glacial land-sea interactions in the southern Baltic Sea. Boreal Environment Research 7 (1), 13-25.
 
-[A19] Müller, A., 2002: Holocene sea-level change in the southwestern Baltic Sea. Terra Nostra 2002/6, 216-220.
+[[A19]](https://github.com/anne-mueller/publications/blob/master/PDF/A19.pdf) Müller, A., 2002: Holocene sea-level change in the southwestern Baltic Sea. Terra Nostra 2002/6, 216-220.
 
 [[A18]](https://doi.org/10.1016/S0883-2927(01)00130-5) Müller, A., 2002: Pyritization of iron and trace metals in anoxic fjord sediments (Nordåsvannet fjord, western Norway). Applied Geochemistry 17 (7), 923-933.
 
@@ -44,7 +44,7 @@
 
 [[A14]](https://doi.org/10.1016/S0883-2927(00)00024-X) Müller, A., 2001: Geochemical expressions of anoxic conditions in a land-locked fjord, western Norway. Applied Geochemistry 16, 363-374.
 
-[A13] Müller, A., 2000: Interpreting heavy metals in the sediments of the Baltic Sea. Leipziger Geowissenschaften 12, 43-48.
+[[A13]](https://github.com/anne-mueller/publications/blob/master/PDF/A4.pdf) Müller, A., 2000: Interpreting heavy metals in the sediments of the Baltic Sea. Leipziger Geowissenschaften 12, 43-48.
 
 [[A12]](https://doi.org/10.1029/1999PA900046) Müller, A. and Opdyke, B.N., 2000: Glacial-interglacial changes in nutrient utilization and paleoproductivity in the Indonesian-Throughflow-sensitive Timor Trough, easternmost Indian Ocean, Paleoceanography 15, 85-94.
 
@@ -54,21 +54,21 @@
 
 [[A9]](https://doi.org/10.1007/BF03042825) Müller, A., 1999: Geochemische Characteristika des Greifswalder Boddens (südliche Ostsee) als Indikatoren für Sedimentationsgeschichte und Paläomilieu (Geochemical characteristica of the Greifswalder Bodden lagoon sediments - indicators of sedimentation history and paleoenvironments, in German with English summary). Senckenbergiana maritima 30, 1-15.
 
-[A8] Müller, A., 1999: Distrubution of heavy metals in recent sediments in the Archipelago Sea of soutwestern Finland. Boreal Environment Research 4, 319-330.
+[[A8]](https://github.com/anne-mueller/publications/blob/master/PDF/A8.pdf) Müller, A., 1999: Distrubution of heavy metals in recent sediments in the Archipelago Sea of soutwestern Finland. Boreal Environment Research 4, 319-330.
 
-[A7] Müller, A., 1998: Die Rekonstruktion der Palämilieus von Bodden und Haffen der südlichen Ostsee under Anwendung der Corg/S-Verhältnisse in den Sedimenten (Reconstruction of paleoenvironments of coastal lagoons in the southern Baltic Sea using sedimentary Corg/S ratios, in German with English summary), Geochemistry/Chemie der Erde 58, 291-311.
+[[A7]](https://github.com/anne-mueller/publications/blob/master/PDF/A7.pdf) Müller, A., 1998: Die Rekonstruktion der Palämilieus von Bodden und Haffen der südlichen Ostsee under Anwendung der Corg/S-Verhältnisse in den Sedimenten (Reconstruction of paleoenvironments of coastal lagoons in the southern Baltic Sea using sedimentary Corg/S ratios, in German with English summary), Geochemistry/Chemie der Erde 58, 291-311.
 
-[A6] Müller, A., 1998: Zur postglazialen Sedimentationsgeschichte des Grossen Jasmunder Boddens, südliche Ostsee (Postglacial sedimentation history of the Grosser Jasmunder Bodden lagoon, southern Baltic Sea, in German with English summary). Eiszeitalter und Gegenwart 48, 118-132.
+[[A6]](https://github.com/anne-mueller/publications/blob/master/PDF/A6.pdf) Müller, A., 1998: Zur postglazialen Sedimentationsgeschichte des Grossen Jasmunder Boddens, südliche Ostsee (Postglacial sedimentation history of the Grosser Jasmunder Bodden lagoon, southern Baltic Sea, in German with English summary). Eiszeitalter und Gegenwart 48, 118-132.
 
-[A5] Müller, A. and Hoffmann, K., 1998: Spät- und postglaziale Sedimentationsdynamik und Korngrössenverteilung om Oder-Haff, südliche Ostsee (Late and Post-Glacial sedimentation dynamics and grain size distribution in the Oder Lagoon, southern Baltic Sea, in German with English summary). Leipziger Geowissenschaften 6, 199-209.
+[[A5]](https://github.com/anne-mueller/publications/blob/master/PDF/A5.pdf) Müller, A. and Hoffmann, K., 1998: Spät- und postglaziale Sedimentationsdynamik und Korngrössenverteilung om Oder-Haff, südliche Ostsee (Late and Post-Glacial sedimentation dynamics and grain size distribution in the Oder Lagoon, southern Baltic Sea, in German with English summary). Leipziger Geowissenschaften 6, 199-209.
 
 [[A4]](https://github.com/anne-mueller/publications/blob/master/PDF/A4.pdf) Müller, A., 1997: Hydrodynamics and nutrient distribution in bottom sediments of the Archipelago Sea, southwestern Finland. Boreal Environment Research 2, 229-237.
 
-[A3] Müller, A., 1997: Zu Sedimentationsgeschichte und Palämilieu der Darss-Zingster Bodenkette, südliche Ostsee (Sedimentation history and paleoenvironments of the Darss-Zingster lagoons, southern Baltic Sea, in German with English summary). Zeitschrift für Geologische Wissenschaften, 25 (5/6), 465-480.
+[[A3]](https://github.com/anne-mueller/publications/blob/master/PDF/A3.pdf) Müller, A., 1997: Zu Sedimentationsgeschichte und Palämilieu der Darss-Zingster Bodenkette, südliche Ostsee (Sedimentation history and paleoenvironments of the Darss-Zingster lagoons, southern Baltic Sea, in German with English summary). Zeitschrift für Geologische Wissenschaften, 25 (5/6), 465-480.
 
-[A2] Müller, A., 1997: Die Rekonstruktion von Sedimentationsgeschichte und Paläomilieu des Oderhaffs unter Anwendung geochemischer Methoden (Reconstruction of sedimentation history and paleoenvironments of the Oder lagoon using geochemical methods, in German with English summary). Zeitschrift der Deutschen Geologischen Gesellschaft 148:2, 271-278.
+[[A2]](https://github.com/anne-mueller/publications/blob/master/PDF/A2.pdf) Müller, A., 1997: Die Rekonstruktion von Sedimentationsgeschichte und Paläomilieu des Oderhaffs unter Anwendung geochemischer Methoden (Reconstruction of sedimentation history and paleoenvironments of the Oder lagoon using geochemical methods, in German with English summary). Zeitschrift der Deutschen Geologischen Gesellschaft 148:2, 271-278.
 
-[A1] Müller, A., 1996: Sedimentmiljön i Lumparnbukten, Åland (in Swedish with English summary: The sedimentary environment of Lumparn Bight, Åland). Terra 108:1, 20-29.
+[[A1]](https://github.com/anne-mueller/publications/blob/master/PDF/A1.pdf) Müller, A., 1996: Sedimentmiljön i Lumparnbukten, Åland (in Swedish with English summary: The sedimentary environment of Lumparn Bight, Åland). Terra 108:1, 20-29.
 
 ## Conference Publications
 
@@ -176,13 +176,13 @@
 
 [C32] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L., Gustiantini, L., Do Quaternary Ostracoda reflect transgression and regression events in the Timor Sea? The 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, December 2003.
 
-[C31] Auliaherliaty, L., Dewi, K.T., Müller, A., Sarmili, L., Paleobathymetry in Segara Anakan Lagoon, Southern Java, derived from benthic foraminiferal distribution. The 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, December 2003. 
+[[C31]](https://github.com/anne-mueller/publications/blob/master/PDF/C31.pdf) Auliaherliaty, L., Dewi, K.T., Müller, A., Sarmili, L., Paleobathymetry in Segara Anakan Lagoon, Southern Java, derived from benthic foraminiferal distribution. The 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, December 2003. 
 
 [C30] Scharf, B., Müller, A, Wölfl, S., Urrutia, R., Treutler H.-C., Pirrung, M., Grosjean, M., Araneda, A., Cruces, F., Torres, L. & Parra, O., Recent paleolimnology and paleoecology of a high-altitude lake in Southern Central Andes (Lake Laja, Chile: Natural development versus anthropogenic impact, and implications for paleoclimate studies. National Limnology Symposium Chile, Concepcion, October 2003.
 
 [C29] Urrutia, R., Scharf, B., Müller, A, Pirrung, M., Bittmann, F., Wölfl, S., Araneda, A. & Grosjean, M., Paleoenvironmental and Paleoclimate signals in Lake Laja (Southern Central Andes, Chile). National Paleolimnology Symposium Chile, Concepcion, October 2003.
 
-[C28] Müller, A., Gagan M.K. & Lough, J.M.: Coral reconstructions of 20th century changes in coral calcification and reef growth caused by increase in atmospheric CO2. 6th German Climate Conference "Climate Variability", Potsdam, September 2003.
+[[C28]](https://github.com/anne-mueller/publications/blob/master/PDF/C28.pdf) Müller, A., Gagan M.K. & Lough, J.M.: Coral reconstructions of 20th century changes in coral calcification and reef growth caused by increase in atmospheric CO2. 6th German Climate Conference "Climate Variability", Potsdam, September 2003.
 
 [C27] Dewi, K.T., van Harten, D., Troelstra, S.R. & Müller, A., The ostracoda (microcrustacea) of the Snellnius expedition-II in a transect between the Banda and the Timor Seas. Open Science meeting of the Netherlands and Indonesia "Back to the future", Jakarta, Indonesia, September, 2003.
 
