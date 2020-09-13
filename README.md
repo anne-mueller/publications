@@ -14,7 +14,7 @@
 
 [A28] Dewi, K.T., Müller, A., Frenzel, P. and van Harten, D., 2005: Recent Ostracoda (Microcrustacea) from a Banda-to-Timor Sea Traverse: implications for paleobathymetric Studies. Proceedings of the 33rd Annual Convention and Exhibition, Indonesian Association of Geologists, Jakarta.
 
-[A27] Müller, A., Gagan, M.K. and Lough, J.M., 2004: Effect of early marine diagensis on coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Global Biogeochemical Cycles 18 (1), 1033-1040.
+[[A27]](https://doi.org/10.1029/2003GB002112) Müller, A., Gagan, M.K. and Lough, J.M., 2004: Effect of early marine diagensis on coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Global Biogeochemical Cycles 18 (1), 1033-1040.
 
 [A26] Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2004: The benthic foraminifera Ammonia beccarii as indicator of estuarine environments in Indonesia. Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 2, 495-505.
 
@@ -32,23 +32,23 @@
 
 [A19] Müller, A., 2002: Holocene sea-level change in the southwestern Baltic Sea. Terra Nostra 2002/6, 216-220.
 
-[A18] Müller, A., 2002: Pyritization of iron and trace metals in anoxic fjord sediments (Nordåsvannet fjord, western Norway). Applied Geochemistry 17 (7), 923-933.
+[[A18]](https://doi.org/10.1016/S0883-2927(01)00130-5) Müller, A., 2002: Pyritization of iron and trace metals in anoxic fjord sediments (Nordåsvannet fjord, western Norway). Applied Geochemistry 17 (7), 923-933.
 
-[A17] Müller, A., 2002: Organic carbon burial rates, and carbon and sulfur relationships in coastal sediments of the southern Baltic Sea. Applied Geochemistry 17 (4), 337-352.
+[[A17]](https://doi.org/10.1016/S0883-2927(01)00087-7) Müller, A., 2002: Organic carbon burial rates, and carbon and sulfur relationships in coastal sediments of the southern Baltic Sea. Applied Geochemistry 17 (4), 337-352.
 
-[A16] Müller, A., Gagan, M.K. and McCulloch, M.T., 2001: Early marine diagenesis in coral and geochemical consequences of paleoceanographic reconstructions. Geophysical Research Letters Vol. 28, No. 23, 4471-4474.
+[[A16]](https://doi.org/10.1029/2001GL013577) Müller, A., Gagan, M.K. and McCulloch, M.T., 2001: Early marine diagenesis in coral and geochemical consequences of paleoceanographic reconstructions. Geophysical Research Letters Vol. 28, No. 23, 4471-4474.
 
-[A15] Müller, A., 2001: Late- and postglacial sea-level change and paleoenvironments in the Oder Estuary, southern Baltic Sea. Quaternary Research 55, 86-96.
+[[A15]](https://doi.org/10.1006/qres.2000.2189) Müller, A., 2001: Late- and postglacial sea-level change and paleoenvironments in the Oder Estuary, southern Baltic Sea. Quaternary Research 55, 86-96.
 
-[A14] Müller, A., 2001: Geochemical expressions of anoxic conditions in a land-locked fjord, western Norway. Applied Geochemistry 16, 363-374.
+[[A14]](https://doi.org/10.1016/S0883-2927(00)00024-X) Müller, A., 2001: Geochemical expressions of anoxic conditions in a land-locked fjord, western Norway. Applied Geochemistry 16, 363-374.
 
 [A13] Müller, A., 2000: Interpreting heavy metals in the sediments of the Baltic Sea. Leipziger Geowissenschaften 12, 43-48.
 
-[A12] Müller, A. and Opdyke, B.N., 2000: Glacial-interglacial changes in nutrient utilization and paleoproductivity in the Indonesian-Throughflow-sensitive Timor Trough, easternmost Indian Ocean, Paleoceanography 15, 85-94.
+[[A12]](https://doi.org/10.1029/1999PA900046) Müller, A. and Opdyke, B.N., 2000: Glacial-interglacial changes in nutrient utilization and paleoproductivity in the Indonesian-Throughflow-sensitive Timor Trough, easternmost Indian Ocean, Paleoceanography 15, 85-94.
 
 [[A11]](https://doi.org/10.1016/S0031-0182(98)00094-7) Müller, A. and Mathesius, U., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. I. The application of sedimentary Corg/N and 13C/12C ratios as source indicators of organic matter. Paleogeography, Palaeoclimatology, Palaeecology 145, 1-16.
 
-[A10] Müller, A. and Voss, M., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. II. d13C and d15N ratios of organic matter - sources and sediments. Paleogeography, Palaeoclimatology, Palaeecology, 145, 17-32.
+[[A10]](https://doi.org/10.1016/S0031-0182(98)00095-9) Müller, A. and Voss, M., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. II. d13C and d15N ratios of organic matter - sources and sediments. Paleogeography, Palaeoclimatology, Palaeecology, 145, 17-32.
 
 [A9] Müller, A., 1999: Geochemische Characteristika des Greifswalder Boddens (südliche Ostsee) als Indikatoren für Sedimentationsgeschichte und Paläomilieu (Geochemical characteristica of the Greifswalder Bodden lagoon sediments - indicators of sedimentation history and paleoenvironments, in German with English summary). Senckenbergiana maritima 30, 1-15.
 
