@@ -92,7 +92,7 @@
 
 [C73] Müller, A., Pirrung, M., Scharf, B. and von Tümpling, W., Natural environmental hazards reflected in high-altitude Patagonian lake sediments. American Geophysical Union, Joint Assembly, Acapulco, May 2007.
 
-[C72] Müller, A. & Hope, P., Equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum - evidence of an altered weathering regime in northern Australia. European Geophysical Union, Annual Meeting, Vienna, April 2007.
+[[C72]](https://meetings.copernicus.org/www.cosis.net/abstracts/EGU2007/05108/EGU2007-J-05108-1.pdf) Müller, A. & Hope, P., Equatorial moisture transport in the Asia-Australia region during the Last Glacial Maximum - evidence of an altered weathering regime in northern Australia. European Geophysical Union, Annual Meeting, Vienna, April 2007.
 
 [C71] Müller, A., McGregor, H., Gagan M.K. and Lough, J.M., Stable isotope signatures in carbonates as a tool for hydrocarbon exploration. American Association of Petroleum Geologists, International Meeting, Perth, November 2006.
 
