@@ -46,7 +46,7 @@
 
 [A12] Müller, A. and Opdyke, B.N., 2000: Glacial-interglacial changes in nutrient utilization and paleoproductivity in the Indonesian-Throughflow-sensitive Timor Trough, easternmost Indian Ocean, Paleoceanography 15, 85-94.
 
-[A11] Müller, A. and Matthesius, U., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. I. The application of sedimentary Corg/N and 13C/12C ratios as source indicators of organic matter. Paleogeography, Palaeoclimatology, Palaeecology 145, 1-16.
+[[A11]](https://doi.org/10.1016/S0031-0182(98)00094-7) Müller, A. and Mathesius, U., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. I. The application of sedimentary Corg/N and 13C/12C ratios as source indicators of organic matter. Paleogeography, Palaeoclimatology, Palaeecology 145, 1-16.
 
 [A10] Müller, A. and Voss, M., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. II. d13C and d15N ratios of organic matter - sources and sediments. Paleogeography, Palaeoclimatology, Palaeecology, 145, 17-32.
 
