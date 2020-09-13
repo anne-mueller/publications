@@ -2,6 +2,30 @@
 
 ## Journal Publications
 
+[[A33]](https://doi.org/10.1016/j.dynatmoce.2008.08.004) Löwemark, L., Steinke, S., Wang, C.-H., Chen, M.-T., Müller, A., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., 2009: New evidence for a glacioeustatic influence on deep water circulation, bottom water ventilation and primary productivity in the South China Sea. Dynamics of Atmospheres and Oceans, Vol. 47, Issues 1–3, p. 138-153.
+
+[[A32]](https://doi.org/10.1142/9789812836168_0013) Dewi, K.T., Darlan, Y., Müller, A., and Kapid, R., 2009: Micropaleontological and sedimentological reconstruction of late holocene coastal environments in Indramayu, West Java, Indonesia. Advances in Geosciences, pp. 179-195.
+
+[[A31]](https://doi.org/10.1142/9789812836168_0012) Müller, A., Scharf, B., von Tümpling, W. and Pirrung, M., 2009: Natural environmental hazards reflected in high-altitude Patagonian lake sediments (Lake Caviahue, Argentina). Advances in Geosciences, pp. 161-178.
+
+[A30] Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2007: Paleoenvironmental reconstructions from benthic assemblages of early Holocene, shallow marine deposits in Gombong, central Java. Bulletin of Marine Geology 22 (1), 18-27.
+
+[A29] Müller, A., McGregor, H., Gagan, M.K. and Lough, J.M., 2006: The effects of early marine aragonite, calcite and vadose-zone calcite diagenesis on coral reconstructions of changes in coral calcification and oceanic Suess effect. In: Proceedings 10th International Coral Reef Symposium, Y Suzuki et al (eds), Japanese Coral Reef Society, Tokyo, Japan, pp. 607-614.
+
+[A28] Dewi, K.T., Müller, A., Frenzel, P. and van Harten, D., 2005: Recent Ostracoda (Microcrustacea) from a Banda-to-Timor Sea Traverse: implications for paleobathymetric Studies. Proceedings of the 33rd Annual Convention and Exhibition, Indonesian Association of Geologists, Jakarta.
+
+[A27] Müller, A., Gagan, M.K. and Lough, J.M., 2004: Effect of early marine diagensis on coral reconstructions of surface-ocean 13C/12C and carbonate saturation state. Global Biogeochemical Cycles 18 (1), 1033-1040.
+
+[A26] Gustiantini, L., Dewi, K.T., Müller, A. and Praptisih, P., 2004: The benthic foraminifera Ammonia beccarii as indicator of estuarine environments in Indonesia. Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 2, 495-505.
+
+[A25] Dewi, K.T., Müller, A., Frenzel, P., Auliaherliaty, L. and Gustiantini, L., 2004: Do Quaternary Ostracoda reflect transgression and regression events in the Timor Sea? Proceedings of the 32nd IAGI (Indonesian Association of Geologists) and the 28th HAGI (Indonesian Association of Geophysicists) Annual Conventions, Jakarta, Vol. 1, 317-326.
+
+[A24] Auliaherliaty, L., Müller, A., Dewi, K.T., Tunjungpuri, P.R. and Gustiantini, L., 2003: Late Quaternary development of the Segara Anakan Lagoon (Southern Java), and implications for recent environmental changes in the region. Proceedings of the International Conference on Marine Fisheries and Seafood (IMFS), Jakarta, 322-333.
+
+[A23] Müller, A., Gagan, M.K. and Lough, J.M., 2003: Coral reconstructions of the 20th century changes in coral calcification and reef growth caused by increase in atmospheric CO2. Terra Nostra 2003/6, 303-306.
+
+[A22] Auliaherliaty, L., Dewi, K.T. and Müller, A., 2003: Sediment provenance derived from foraminiferal distribution in the Segaran Anakan Lagoon, Central Java. Bulletin of Marine Geology 1 (1), 1-11.
+
 [A21] Gustiantini, L., Dewi, K.T. and Müller, A., 2003: Distribution of foraminifera in surface sediments of Segara Anakan Lagoon, Central Java, and its relation to heavy metal pollution and environmental stress. Bulletin of Marine Geology 1 (1), 36-47.
 
 [A20] Müller, A., 2002: Geochemical expressions of Late- and Post-Glacial land-sea interactions in the southern Baltic Sea. Boreal Environment Research 7 (1), 13-25.
