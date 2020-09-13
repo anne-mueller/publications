@@ -2,6 +2,8 @@
 
 ## Journal Publications
 
+[[A34]](https://doi.org/10.1029/2010EO380008) Calais, E., Diffenbaugh, N., D'Odorico, P., Harris, R., Knorr, W., Lavraud, B., Mueller, A., Peterson, W., Rignot, E., Srokosz, M., Strutton, P., Tyndall, G., Wysession, M., Williams, P., New Policies Improve Top‐Cited Geosciences Journal, Geophysical Research Letters, Vol. 91, Issue 38, p. 337-337.
+
 [[A33]](https://doi.org/10.1016/j.dynatmoce.2008.08.004) Löwemark, L., Steinke, S., Wang, C.-H., Chen, M.-T., Müller, A., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., 2009: New evidence for a glacioeustatic influence on deep water circulation, bottom water ventilation and primary productivity in the South China Sea. Dynamics of Atmospheres and Oceans, Vol. 47, Issues 1–3, p. 138-153.
 
 [[A32]](https://doi.org/10.1142/9789812836168_0013) Dewi, K.T., Darlan, Y., Müller, A., and Kapid, R., 2009: Micropaleontological and sedimentological reconstruction of late holocene coastal environments in Indramayu, West Java, Indonesia. Advances in Geosciences, pp. 179-195.
@@ -50,7 +52,7 @@
 
 [[A10]](https://doi.org/10.1016/S0031-0182(98)00095-9) Müller, A. and Voss, M., 1999: The paleoenvironments of coastal lagoons in the southern Baltic Sea. II. d13C and d15N ratios of organic matter - sources and sediments. Paleogeography, Palaeoclimatology, Palaeecology, 145, 17-32.
 
-[A9] Müller, A., 1999: Geochemische Characteristika des Greifswalder Boddens (südliche Ostsee) als Indikatoren für Sedimentationsgeschichte und Paläomilieu (Geochemical characteristica of the Greifswalder Bodden lagoon sediments - indicators of sedimentation history and paleoenvironments, in German with English summary). Senckenbergiana maritima 30, 1-15.
+[[A9]](https://doi.org/10.1007/BF03042825) Müller, A., 1999: Geochemische Characteristika des Greifswalder Boddens (südliche Ostsee) als Indikatoren für Sedimentationsgeschichte und Paläomilieu (Geochemical characteristica of the Greifswalder Bodden lagoon sediments - indicators of sedimentation history and paleoenvironments, in German with English summary). Senckenbergiana maritima 30, 1-15.
 
 [A8] Müller, A., 1999: Distrubution of heavy metals in recent sediments in the Archipelago Sea of soutwestern Finland. Boreal Environment Research 4, 319-330.
 
@@ -60,7 +62,7 @@
 
 [A5] Müller, A. and Hoffmann, K., 1998: Spät- und postglaziale Sedimentationsdynamik und Korngrössenverteilung om Oder-Haff, südliche Ostsee (Late and Post-Glacial sedimentation dynamics and grain size distribution in the Oder Lagoon, southern Baltic Sea, in German with English summary). Leipziger Geowissenschaften 6, 199-209.
 
-[A4] Müller, A., 1997: Hydrodynamics and nutrient distribution in bottom sediments of the Archipelago Sea, southwestern Finland. Boreal Environment Research 2, 229-237.
+[[A4]](https://github.com/anne-mueller/publications/blob/master/PDF/A4.pdf) Müller, A., 1997: Hydrodynamics and nutrient distribution in bottom sediments of the Archipelago Sea, southwestern Finland. Boreal Environment Research 2, 229-237.
 
 [A3] Müller, A., 1997: Zu Sedimentationsgeschichte und Palämilieu der Darss-Zingster Bodenkette, südliche Ostsee (Sedimentation history and paleoenvironments of the Darss-Zingster lagoons, southern Baltic Sea, in German with English summary). Zeitschrift für Geologische Wissenschaften, 25 (5/6), 465-480.
 
@@ -72,7 +74,7 @@
 
 [C83] Müller, A. and Hope, P., Northwestern Australia's terrestrial climate response to Last Glacial Maximum ocean conditions. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
 
-[C82] Löwenmark, L., Müller, A., Steinke, S., Wang, C.-H., Chen, M.-T., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., Glacio-eustatic influence on deep water circulation in the South China Sea over the past 500 kyrs - implications for global biogeochemical cycling. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
+[[C82]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A181182&dswid=5931) Löwenmark, L., Müller, A., Steinke, S., Wang, C.-H., Chen, M.-T., Shiau, L.-J., Kao, S.-J., Song, S.-R., Lin, H.-L. and Wie, K.-Y., Glacio-eustatic influence on deep water circulation in the South China Sea over the past 500 kyrs - implications for global biogeochemical cycling. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
 
 [C81] Müller, A., Behera, S., Yamagata, T. and Weng, H., ENSO terminology in modern and paleo-studies of tropical climate variability and climate change. Western Pacific Geophysics Meeting, American Geophysical Union, Cairns, Australia, July/August 2008.
 
