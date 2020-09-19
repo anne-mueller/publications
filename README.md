@@ -266,6 +266,8 @@
 
 ## Monographs
 
+[[M5]](https://github.com/anne-mueller/publications/blob/master/PDF/Habil-Mueller-2004.pdf) Müller, A., 2004: Geochemical Expressions in Deep-Sea Sediments and Corals of Late Quaternary Climate Signals in Australia, Dr. Habil Thesis submitted to the University of Leipzig, March 2004.
+
 [M4] Müller, A., 2002: Deep-sea sediment core and coral reconstructions of the Late Quaternary paleoceanography of the eastern Indian Ocean. Ph.D. thesis, Australian National University, Canberra, Australia, 128 p.
 
 [M3] Müller, A., 1996: Sedimentation history and paleoenvironments of coastal lagoons and estuaries in the Southern Baltic Sea - reflection of climate change during the Holocene, in German (Zu Sedimentationsgeschichte und Paläomilieu ausgewählter lagunärer und ästuariner Küstengewässer im südlichen Ostseeraum als Ausdruck der Klimaentwicklung im Holozän), Dissertation, Ernst-Moritz-Arndt-Universität Greifswald, 161 p. + Appendix volume.
