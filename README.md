@@ -188,7 +188,7 @@
 
 [C26] Urrutia, R., Scharf, B., Müller, A, Pirrung, M., Bittmann, F., Wölfl, S., Araneda, A. & Grosjean, M., Recent development of Laguna de la Laja (Chile) and its potential for paleoclimate studies of the El Niño-Southern Oscillation (ENSO) cycles. 9th International Paleolimnological Symposium, Helsinki, August 2003.
 
-[C25] Dewi, K.T., Müller, A. & Frenzel, P.: Evidence of cold temperature ostracods in tropical waters: Makassar Strait and Timor Sea. 5th European Ostracodologists Meeting, Cuenca, Spain, July 2003.
+[[C25]](https://github.com/anne-mueller/publications/blob/master/PDF/C25.pdf) Dewi, K.T., Müller, A. & Frenzel, P.: Evidence of cold temperature ostracods in tropical waters: Makassar Strait and Timor Sea. 5th European Ostracodologists Meeting, Cuenca, Spain, July 2003.
 
 [C24] Müller, A. & Gagan M.K.: Sedimanetary d15N reflect an ENSO-like equatorial climate mechanism in the eastern Indian Ocean over the last 80,000 years. American Geophysical Union/EUG, Nice, April 2003.
 
